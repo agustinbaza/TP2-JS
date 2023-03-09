@@ -5,7 +5,7 @@ let textoTotal = '';
 while(true){
     const textoIngresado = prompt("Ingrese el texto");
 
-    if(textoIngresado === null || textoIngresado.lenght<=0) {
+    if(textoIngresado === null || textoIngresado.length<=0) {
         break;
     }
 
