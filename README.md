@@ -17,8 +17,8 @@ Consiste en realizar 17 ejercicios de diversas dificultades para continuar pract
 ## RECOMENDACIONES 🔍
 
 1. Los ejercicios estan ennumerados en orden y colocados en la carpeta llamada "js".
-2. Cada ejercicio se llama de la misma manera, solo cambia su numero.
-3. Para facilitar la corrección solo debe cambiarse el numero de la etiqueta script para que funcione correctamente el ejercicio que deseen corregir. 
+2. Cada ejercicio se llama de la misma manera, solo cambia su número.
+3. Para facilitar la corrección solo debe cambiarse el número de la etiqueta script para que funcione correctamente el ejercicio que deseen corregir. 
 
 ## Autor 🙋‍♂️
 - [Agustin Baza](https://github.com/agustinbaza)
