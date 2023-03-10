@@ -4,7 +4,7 @@ A continuación muestro mis ejercicios realizados para continuar practicando en 
 
 ## CONSIGNA A CUMPLIR 📚
 
-Consiste en realizar 17 ejercicios de diversas dificultades para introducirnos al mundo del Javascript. Hay 14 ejercicios de dificultad media y luego otros 3 más complejos. 
+Consiste en realizar 17 ejercicios de diversas dificultades para continuar practicando en el mundo del Javascript. Hay 14 ejercicios de dificultad media y luego otros 3 más complejos. 
 
 ## HERRAMIENTAS UTILIZADAS 🛠
 
