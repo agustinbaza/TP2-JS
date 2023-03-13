@@ -13,6 +13,7 @@ Consiste en realizar 17 ejercicios de diversas dificultades para continuar pract
 - Videos del curso de logica disponibles en el campus.
 - Developer Mozilla.
 - Stack Overflow.
+- Youtube.
 
 ## RECOMENDACIONES 🔍
 
