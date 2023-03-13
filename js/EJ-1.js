@@ -12,5 +12,5 @@ switch (true) {
     break;
 
   default:
-    document.write("No se ingreso un caracter valido");
+    document.write("No se ingreso un caracter valido en el rango esperado");
 }
